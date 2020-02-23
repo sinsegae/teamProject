@@ -17,6 +17,8 @@ public class NarutoMain {
 		System.out.println("git pull 실험");
 		System.out.println("git pull 실험2");
 		
+		System.out.println("git pull 실험 계~~~~~~~~~~~~~~~~~~~~~~~~속");
+		
 	}
 	
 }
