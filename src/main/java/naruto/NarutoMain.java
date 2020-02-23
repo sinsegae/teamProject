@@ -13,6 +13,9 @@ public class NarutoMain {
 		
 		System.out.println("\n====================채점 결과=========================");
 		sc.jumsu("은호",9);
+		
+		System.out.println("git pull 실험");
+		
 	}
 	
 }
