@@ -15,6 +15,7 @@ public class NarutoMain {
 		sc.jumsu("은호",9);
 		
 		System.out.println("git pull 실험");
+		System.out.println("git pull 실험2");
 		
 	}
 	
