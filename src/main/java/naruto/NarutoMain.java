@@ -4,10 +4,15 @@ public class NarutoMain {
 	public static void main(String[] args) {
 		NarutoDao nd = new NarutoDao();
 		SbDao sd = new SbDao();
+		ScoreDao sc = new ScoreDao();
+		
 		nd.bunsin("나루토");
+		
 		System.out.println("====================SB요구사항=========================");
 		sd.SB("◎");
-
+		
+		System.out.println("\n====================채점 결과=========================");
+		sc.jumsu("은호",9);
 	}
 	
 }
