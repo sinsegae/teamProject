@@ -20,6 +20,8 @@ public class NarutoMain {
 		System.out.println("git pull 실험 계~~~~~~~~~~~~~~~~~~~~~~~~속");
 		System.out.println("Why 2 files changed?");
 		
+		System.out.println("이번엔 merge를 했어 다시 이제 수정했어");
+		
 	}
 	
 }
